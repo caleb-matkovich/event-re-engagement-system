@@ -12,11 +12,11 @@ This project was built as a simulation of a GTM system in the context of event-b
 
 **1. System Walkthrough**
 Overview of the workflow architecture, logic, and automation design
-👉 [Insert Loom Link]
+https://www.loom.com/share/227c73441b52455aa945b9911566789e
 
 **2. GTM Impact & Metrics Breakdown**
 How the system improves engagement, conversion, and lifecycle performance
-👉 [Insert Loom Link]
+https://www.loom.com/share/ce9358c726a048cc91de1113510b84c4
 
 ---
 
