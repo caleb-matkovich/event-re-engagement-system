@@ -88,15 +88,6 @@ This project reflects a broader approach to GTM engineering:
 
 ---
 
-## 📁 Repository Contents
-
-* Workflow file (JSON export)
-* Sample data
-* Architecture diagram
-* Demo videos
-
----
-
 ## 🚀 Future Extensions
 
 * Real-time behavioral signals for dynamic recommendations
